@@ -22,6 +22,9 @@
 #ifndef SYSTEM_H
 #define SYSTEM_H
 
+//新添加
+#include <unistd.h>
+
 #include<string>
 #include<thread>
 #include<opencv2/core/core.hpp>
